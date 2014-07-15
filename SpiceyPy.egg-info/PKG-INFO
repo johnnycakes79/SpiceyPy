@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: SpiceyPy
+Version: 0.5.2
+Summary: A Python Wrapper for the NAIF CSPICE Toolkit using ctypes
+Home-page: UNKNOWN
+Author: Apollo117
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: numpy
+Requires: pytest
+Requires: coveralls
+Requires: coverage
+Requires: six
