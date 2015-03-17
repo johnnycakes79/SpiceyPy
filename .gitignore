@@ -21,3 +21,7 @@ test/*.txt
 
 # Pycharm specific things
 .idea/
+
+# Build items
+SpiceyPy.egg-info/
+cspice/
